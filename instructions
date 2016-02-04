@@ -1,0 +1,11 @@
+The players are the four colored objects; avoid red or orange enemies and seek out circular powerups. Each player starts with 3 lives.
+Player 1 uses arrows keys and pageup (you may want to map that to a different key if your keyboard is different from mine).
+Player 2 uses wasd and q.
+Player 3 uses tfgh and r.
+Player 4 uses ijkl and u.
+It should be easy to add more players if you want; if you want to play with less than four people, it should also be easy to disable the rest or just let them die.
+The green powerup is an extra life.
+The yellow powerup is speed.
+The blue powerup is a time stop (does not freeze players or powerup spawning).
+The grey powerup gives you three bullets that will fire in the direction you're moving. Use your fifth key to shoot.
+Have fun!
